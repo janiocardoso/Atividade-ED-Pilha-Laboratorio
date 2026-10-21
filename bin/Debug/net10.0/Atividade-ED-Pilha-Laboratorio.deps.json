@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Atividade-ED-Pilha-Laboratorio/1.0.0": {
+        "runtime": {
+          "Atividade-ED-Pilha-Laboratorio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade-ED-Pilha-Laboratorio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Programas\lab06\Atividade-ED-Pilha-Laboratorio\obj\Debug\net10.0\Atividade-ED-Pilha-Laboratorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\lab06\Atividade-ED-Pilha-Laboratorio\obj\Debug\net10.0\Atividade-ED-Pilha-Laboratorio.AssemblyInfoInputs.cache
+D:\Programas\lab06\Atividade-ED-Pilha-Laboratorio\obj\Debug\net10.0\Atividade-ED-Pilha-Laboratorio.AssemblyInfo.cs
+D:\Programas\lab06\Atividade-ED-Pilha-Laboratorio\obj\Debug\net10.0\Atividade-ED-Pilha-Laboratorio.csproj.CoreCompileInputs.cache
+D:\Programas\lab06\Atividade-ED-Pilha-Laboratorio\obj\Debug\net10.0\Atividade-ED-Pilha-Laboratorio.sourcelink.json
+D:\Programas\lab06\Atividade-ED-Pilha-Laboratorio\bin\Debug\net10.0\Atividade-ED-Pilha-Laboratorio.exe
+D:\Programas\lab06\Atividade-ED-Pilha-Laboratorio\bin\Debug\net10.0\Atividade-ED-Pilha-Laboratorio.deps.json
+D:\Programas\lab06\Atividade-ED-Pilha-Laboratorio\bin\Debug\net10.0\Atividade-ED-Pilha-Laboratorio.runtimeconfig.json
+D:\Programas\lab06\Atividade-ED-Pilha-Laboratorio\bin\Debug\net10.0\Atividade-ED-Pilha-Laboratorio.dll
+D:\Programas\lab06\Atividade-ED-Pilha-Laboratorio\bin\Debug\net10.0\Atividade-ED-Pilha-Laboratorio.pdb
+D:\Programas\lab06\Atividade-ED-Pilha-Laboratorio\obj\Debug\net10.0\Atividade-ED-Pilha-Laboratorio.dll
+D:\Programas\lab06\Atividade-ED-Pilha-Laboratorio\obj\Debug\net10.0\refint\Atividade-ED-Pilha-Laboratorio.dll
+D:\Programas\lab06\Atividade-ED-Pilha-Laboratorio\obj\Debug\net10.0\Atividade-ED-Pilha-Laboratorio.pdb
+D:\Programas\lab06\Atividade-ED-Pilha-Laboratorio\obj\Debug\net10.0\Atividade-ED-Pilha-Laboratorio.genruntimeconfig.cache
+D:\Programas\lab06\Atividade-ED-Pilha-Laboratorio\obj\Debug\net10.0\ref\Atividade-ED-Pilha-Laboratorio.dll
